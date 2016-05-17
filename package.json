@@ -1,0 +1,21 @@
+{
+  "name": "chawer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "phantom": "^2.0.10",
+    "request": "^2.71.0",
+    "superagent": "^1.8.3",
+    "webpage": "^0.3.0"
+  }
+}
