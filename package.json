@@ -10,12 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.0.0-rc.3",
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "express": "^4.13.4",
     "http": "0.0.0",
-    "phantom": "^2.0.10",
+    "phantom": "^4.0.11",
     "request": "^2.71.0",
-    "superagent": "^1.8.3",
+    "superagent": "^3.8.2",
     "webpage": "^0.3.0"
   }
 }
